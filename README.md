@@ -43,6 +43,13 @@ Hackathon/
 ├── PathPlanner/                 # Contains saved best models
 └── ...
 ```
+```
+
+## Dataset
+
+The dataset used for this project is available on the Falcon Duality website.
+
+[Download Dataset](https://falcon.duality.ai/secure/documentation/hackathon-segmentation-desert?utm_source=hackathon&utm_medium=instructions&utm_campaign=technomania)
 
 ## Installation
 
