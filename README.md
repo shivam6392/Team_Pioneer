@@ -8,6 +8,11 @@ This project implements an autonomous offroad navigation system that combines se
 
 [Click Me to View Demo Video](https://drive.google.com/file/d/1xB-DVqyLfOaZR0ry7qNas0xq4Gl2lCSV/view?usp=sharing)
 
+## Project Documents
+
+- [View Presentation (PPT)](https://drive.google.com/file/d/1ojiblHoDNa2cpTtn2ctjQLqQ70VSX_Yv/view?usp=sharing)
+- [View Project Report](https://drive.google.com/file/d/1PpJxQKXb2rqBmUpSVE_p-y3L6ZhIt6fS/view?usp=sharing)
+
 ## Features
 
 ### 1. Semantic Segmentation
