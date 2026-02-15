@@ -1,4 +1,6 @@
 # Offroad Segmentation and Path Planning
+### 🏆 Hackathon: TechnoMania 2.0
+### 🚀 Team: Team Pioneer
 
 This project implements an autonomous offroad navigation system that combines semantic segmentation with terrain-aware path planning. It uses a SegFormer model to classify terrain types from images and an A* based planner to find optimal paths, avoiding obstacles and prioritizing safer terrain.
 
